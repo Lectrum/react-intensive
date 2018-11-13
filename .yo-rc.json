@@ -2,7 +2,6 @@
   "@lectrum/generator-ui": {
     "initialized": false,
     "educational": true,
-    "repositoryOwner": "Lectrum",
-    "repositoryName": "react-offline-intensive"
+    "repositoryOwner": "Lectrum"
   }
 }

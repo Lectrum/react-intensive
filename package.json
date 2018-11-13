@@ -1,6 +1,6 @@
 {
-    "name": "react-intensive",
-    "version": "2.0.1",
+    "name": "react-offline-intensive",
+    "version": "2.0.2",
     "author": "Dima Vakatsiienko <dvakatsiienko@lectrum.io>",
     "private": true,
     "dependencies": {

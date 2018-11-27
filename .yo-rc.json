@@ -2,6 +2,7 @@
   "@lectrum/generator-ui": {
     "initialized": false,
     "educational": true,
+    "checkpoint": true,
     "repositoryOwner": "Lectrum"
   }
 }
